@@ -1,0 +1,19 @@
+{
+  "name": "2day-different",
+  "version": "1.0.0",
+  "description": "the days between a start and end date",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "keywords": [
+    "days",
+    "date"
+  ],
+  "author": "Ángel De La Cruz",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
